@@ -1,0 +1,29 @@
+/* Add your styles here */
+
+.titulo {
+  background-color: #312b2b;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  text-align: center;
+  color:#ffffff;
+  font-size: 26px;
+  font-family: "Cursive", "Lucida Handwriting", serif;
+}
+
+.imagen {
+  background-color: #b5e5fc;
+  margin: 0rem;
+  padding: 1rem;
+  border: 1px solid rgb(196, 189, 189);
+  text-align: center;
+}
+
+.texto {
+  background-color: #f7f0b5;
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid rgb(196, 189, 189);
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
